@@ -1,6 +1,6 @@
 (Note: Brackets interally have a unit and integration test system. This can be used both to test Extensions and Core Brackets)
 
-This project is a output of quick technical research on using Selenium test framework to test Brackets/Extensions E2E funtionality.(In case if we need this functioanlity..) 
+This project is a output of quick technical research on using Selenium test framework to test Brackets/Extensions E2E funtionality.(In case if we need this ..) 
 
 # Using Protractor + chromedriver 
 [Protractor] (https://github.com/angular/protractor) is a wrapper built on top of [WebDriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) of slenium. It is a E2E test framework mainly built for AngularJS applications but can also be used for non-angular apps. [ChromeDriver] (https://code.google.com/p/selenium/wiki/ChromeDriver) is a standalone server which implements [WebDriver's wire protocol](https://code.google.com/p/selenium/wiki/JsonWireProtocol) for Chromium. ChromeDriver uses devtools protocol to communicate Browser.
